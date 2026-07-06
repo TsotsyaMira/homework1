@@ -1,5 +1,5 @@
-a=int(input("enter first number:"))
-b=int(input("enter second number:"))
-c=int(input("enter third number:"))
-d=(a+b+c)/3
+a=float(input("enter first number:"))
+b=float(input("enter second number:"))
+c=float(input("enter third number:"))
+d=float((a+b+c)/3)
 print(d)
